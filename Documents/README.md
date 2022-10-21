@@ -9,5 +9,5 @@ Documents/
 │       │
 │       ├── SoundManager.MD(サウンドマネージャーの使用方法)
 │
-└── Use Sources(使用した素材のURL)
+└── UseSources.MD(使用した素材のURL)
 ```
