@@ -4,6 +4,10 @@
 
 > 仕様書 AnyURL
 
+
+## 使用した素材
+> https://github.com/ItoSeiy/CyberAgent-1DayHackathon-MiniProto/blob/main/Documents/UseSources.MD
+
 ## 注意点
 - productionブランチは各プロジェクトで作ること
 
