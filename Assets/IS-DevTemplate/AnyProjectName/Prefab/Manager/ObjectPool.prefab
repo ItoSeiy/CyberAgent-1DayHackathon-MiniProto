@@ -27,6 +27,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -44,5 +45,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _objParam:
-    _params: []
+    _params:
+    - name: Arrow
+      prefab: {fileID: 2625589666798129108, guid: de990536a7a33314b82dd572b9252c51, type: 3}
+      maxCount: 10
   _poolPrefabParent: {fileID: 995492886181658234}
