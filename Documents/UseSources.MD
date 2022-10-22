@@ -26,3 +26,9 @@
 
 ### チュートリアル用フォント
 > https://cute-freefont.flop.jp/fw_dotgothic.html
+
+### 発見音
+> https://www.youtube.com/watch?v=U5Z76XLEwRM
+
+### ビックリマーク
+> https://www.irasutoya.com/2012/12/blog-post_6768.html
