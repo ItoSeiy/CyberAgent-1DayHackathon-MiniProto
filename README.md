@@ -6,9 +6,18 @@
 
 ### 伊東聖矢(せいや)
 - 職種 プログラマー
-  - 担当箇所 xxx
+  - 担当箇所 アウトゲーム、拡張メソッド、オブジェクトプール、クラス図、発表スライド
   - 所属 バンタンゲームアカデミー東京校 ゲーム制作専攻21A
-  - 意気込み 全力で！楽しく！
+  - 意気込み 全力で！楽しく
+
+### 神原 琉成(るな)
+- 職種 プログラマー
+  - 担当箇所 インゲームすべて、企画
+  - 所属 バンタンゲームアカデミー東京校 ゲーム制作専攻21A
+  - 意気込み 楽しくゲームをつくりましょう
+  
+## 発表スライド
+> https://docs.google.com/presentation/d/1zGSM9Hc9eRgzotnYKMYKRWdu3OVLR1hF7VVJIwk6EEE/edit?usp=sharing
 
 ## 使用した素材
 > https://github.com/ItoSeiy/CyberAgent-1DayHackathon-MiniProto/blob/main/Documents/UseSources.MD
