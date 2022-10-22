@@ -9,5 +9,7 @@ Documents/
 │       │
 │       ├── SoundManager.MD(サウンドマネージャーの使用方法)
 │
-└── UseSources.MD(使用した素材のURL)
+├── UseSources.MD(使用した素材のURL)
+│
+└── OutGameClassDiagram.drawio.svg(アウトゲームのクラス図)
 ```
