@@ -23,3 +23,6 @@
 
 ### BGM
 > https://www.youtube.com/watch?v=T5k12P7YlMk
+
+### チュートリアル用フォント
+> https://cute-freefont.flop.jp/fw_dotgothic.html
