@@ -11,14 +11,14 @@ public class Ghost : MonoBehaviour
 
     private bool _canMove = false;
     private bool _isGhostMode = false;
-    private SpriteRenderer _sp;
+    private SpriteRenderer _spriteRendrer;
     private Rigidbody2D _rb;
     private Collider2D _collider;
     private Animator _anim;
 
     private void Awake()
     {
-        _sp = GetComponent<SpriteRenderer>();
+        _spriteRendrer = GetComponent<SpriteRenderer>();
         _rb = GetComponent<Rigidbody2D>();
         _collider = GetComponent<Collider2D>();
         _anim = GetComponent<Animator>();
@@ -43,7 +43,7 @@ public class Ghost : MonoBehaviour
     private void ChangeGhostMode()
     {
         _isGhostMode = !_isGhostMode;
-        _collider.isTrigger = !_isGhostMode;
+        _collider.isTrigger = _isGhostMode;
         ChangeGhostSkin();
     }
 
@@ -64,6 +64,6 @@ public class Ghost : MonoBehaviour
     private void SetAnimation(float x)
     {
         _anim.SetBool("IsRun", x != 0);
-        _sp.flipX = x > 0;
+        _spriteRendrer.flipX = x > 0;
     }
 }

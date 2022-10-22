@@ -36,13 +36,13 @@ public class WalkMan : MonoBehaviour
         Walk();
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.tag == _gameClearTag)
+        if (collision.gameObject.tag == _gameClearTag)
         {
             GameManager.Instance.GameClear();
         }
-        if (collision.tag == _gameOverTag)
+        if (collision.gameObject.tag == _gameOverTag)
         {
             GameManager.Instance.GameOver();
         }
@@ -51,7 +51,7 @@ public class WalkMan : MonoBehaviour
     private void Walk()
     {
         int s = _canMove ? _speed : 0;
-        _rb.velocity = new Vector2(s, 0);
+        _rb.velocity = new Vector2(s, -1);
     }
 
     private void CheckSight()

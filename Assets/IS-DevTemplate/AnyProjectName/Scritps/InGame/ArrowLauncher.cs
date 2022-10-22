@@ -1,12 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using ISDevTemplate.Pool;
 
-public class ArrowLauncher : MonoBehaviour
+public class ArrowLauncher : MonoBehaviour, IGimmick
 {
-    [SerializeField]
-    private GameObject _arrow;
-
     [SerializeField]
     private ShootType _shootType;
 
@@ -53,13 +51,13 @@ public class ArrowLauncher : MonoBehaviour
         }
     }
 
-    public void StopLauncher(bool flag)
-    {
-        _stopLauncher = flag;
-    }
-
     private void Shoot()
     {
+        ObjectPool.Instance.UseObject("Arrow", transform.position).transform.rotation = Quaternion.identity;
+    }
 
+    public void OnGimmick()
+    {
+        _stopLauncher = true;
     }
 }
