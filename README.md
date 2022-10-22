@@ -1,9 +1,14 @@
-# Any project name Team C++++
+# Null C++++
 
 > 企画書 AnyURL
 
 > 仕様書 AnyURL
 
+### 伊東聖矢(せいや)
+- 職種 プログラマー
+  - 担当箇所 xxx
+  - 所属 バンタンゲームアカデミー東京校 ゲーム制作専攻21A
+  - 意気込み 全力で！楽しく！
 
 ## 使用した素材
 > https://github.com/ItoSeiy/CyberAgent-1DayHackathon-MiniProto/blob/main/Documents/UseSources.MD
