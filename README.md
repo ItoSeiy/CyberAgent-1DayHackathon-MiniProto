@@ -1,4 +1,4 @@
-# Null C++++
+#Ghosting protect Team:C++++
 
 ### 伊東聖矢(せいや)
 - 職種 プログラマー
