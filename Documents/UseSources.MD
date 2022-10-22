@@ -17,3 +17,6 @@
 
 ### 押しボタンOFF
 > https://www.ac-illust.com/main/detail.php?id=22966872&word=%E6%8A%BC%E3%81%97%E3%83%9C%E3%82%BF%E3%83%B3OFF+%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E7%B4%A0%E6%9D%90
+
+### ゴールフラッグ
+> https://illust8.com/contents/79
