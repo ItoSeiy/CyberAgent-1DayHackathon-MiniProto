@@ -35,3 +35,6 @@
 
 ### ボタンの音 (決定ボタンを押す31 カチッ)
 > https://soundeffect-lab.info/sound/button/
+
+### ゲームクリア音 (歓声1)
+> https://soundeffect-lab.info/sound/various/various3.html
