@@ -8,7 +8,7 @@ public class GameOverZone : MonoBehaviour
     private GameObject _walkMan;
 
     [SerializeField]
-    private int _initialHeightValue = -7;
+    private int _initialHeightValue;
 
     private void Update()
     {

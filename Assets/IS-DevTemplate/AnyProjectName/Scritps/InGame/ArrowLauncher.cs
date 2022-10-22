@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using ISDevTemplate.Pool;
+using ISDevTemplate.Sound;
 
 public class ArrowLauncher : MonoBehaviour, IGimmick
 {
@@ -54,6 +55,7 @@ public class ArrowLauncher : MonoBehaviour, IGimmick
     private void Shoot()
     {
         ObjectPool.Instance.UseObject("Arrow", transform.position).transform.rotation = Quaternion.identity;
+        SoundManager.Instance.UseSFX("SE_Arrow");
     }
 
     public void OnGimmick()

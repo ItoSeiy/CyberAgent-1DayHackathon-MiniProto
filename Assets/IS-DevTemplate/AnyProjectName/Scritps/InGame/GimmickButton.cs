@@ -23,6 +23,8 @@ public class GimmickButton : MonoBehaviour
     private void Awake()
     {
         _spriteRenderer = GetComponent<SpriteRenderer>();
+        _isPushed = false;
+        _canPush = false;
     }
 
     private void Update()
@@ -44,7 +46,10 @@ public class GimmickButton : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        _canPush = false;
+        if(collision.tag == _playerTag)
+        {
+            _canPush = false;
+        }
     }
 
     private void OnPush()
