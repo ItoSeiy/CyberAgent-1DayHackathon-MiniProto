@@ -38,3 +38,6 @@
 
 ### ゲームクリア音 (歓声1)
 > https://soundeffect-lab.info/sound/various/various3.html
+
+### げームオーバー音 (チーン1)
+> https://soundeffect-lab.info/sound/anime/
