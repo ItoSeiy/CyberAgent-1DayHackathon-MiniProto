@@ -32,3 +32,6 @@
 
 ### ビックリマーク
 > https://www.irasutoya.com/2012/12/blog-post_6768.html
+
+### ボタンの音 (決定ボタンを押す31 カチッ)
+> https://soundeffect-lab.info/sound/button/
