@@ -16,8 +16,11 @@
   - 所属 バンタンゲームアカデミー東京校 ゲーム制作専攻21A
   - 意気込み 楽しくゲームをつくりましょう
   
-## 発表スライド
+## 発表スライド(開発メンバー紹介、ゲーム紹介)
 > https://docs.google.com/presentation/d/1zGSM9Hc9eRgzotnYKMYKRWdu3OVLR1hF7VVJIwk6EEE/edit?usp=sharing
+
+## アウトゲームのクラス図
+> https://github.com/ItoSeiy/CyberAgent-1DayHackathon-MiniProto/blob/main/Documents/OutGameClassDiagram.drawio.svg
 
 ## 使用した素材
 > https://github.com/ItoSeiy/CyberAgent-1DayHackathon-MiniProto/blob/main/Documents/UseSources.MD
