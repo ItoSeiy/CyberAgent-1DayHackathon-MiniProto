@@ -21,8 +21,11 @@
 ### ゴールフラッグ
 > https://illust8.com/contents/79
 
-### BGM
+### Stage01 BGM
 > https://www.youtube.com/watch?v=T5k12P7YlMk
+
+### Stage02 BGM
+> https://www.youtube.com/watch?v=vyUvNdlEPj8
 
 ### チュートリアル用フォント
 > https://cute-freefont.flop.jp/fw_dotgothic.html
