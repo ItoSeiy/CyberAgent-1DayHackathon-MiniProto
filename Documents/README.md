@@ -1,5 +1,9 @@
 ## ドキュメント一覧
 
+### OutGameClassDiagram.drawio.svg
+アウトゲームのクラス図は下記からご覧になれます
+> https://app.diagrams.net/#HItoSeiy%2FCyberAgent-1DayHackathon-MiniProto%2Fmain%2FDocuments%2FOutGameClassDiagram.drawio.svg
+
 ```
 Documents/
 │
